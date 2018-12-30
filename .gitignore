@@ -1,0 +1,6 @@
+# FILE
+*.pyc
+
+# DIR
+model
+
